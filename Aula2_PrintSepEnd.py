@@ -11,3 +11,4 @@ print(56, 78, sep='-', end='\n')  # sep='-' coloca hífen entre os valores, end=
 
 print(9, 10, sep='-', end='\n')  # mesmo comportamento acima
 # Saída: 9-10
+
