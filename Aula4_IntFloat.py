@@ -6,7 +6,7 @@
 
 # float -> número de ponto flutuante (com parte decimal)
 # Também pode ser positivo, negativo ou zero
-# Ex: 1.5, -0.7, 0.0
+# Ex: 1.5, -0.5, 0.0
 
 # A função type() mostra o tipo de dado de um valor
 
