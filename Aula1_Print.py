@@ -6,7 +6,7 @@ Você pode escrever o que quiser aqui.
 É comum aparecer quando usamos help(função) ou __doc__
 """
 
-''' Usar para escrever suas notas '''
+'''  Usar para escrever suas notas  '''
 # Isso também é uma DocString, mas com aspas simples triplas.
 # Pode ser usada da mesma forma.
 
