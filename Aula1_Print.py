@@ -13,5 +13,5 @@ Você pode escrever o que quiser aqui.
 # Permite escrever um comentário (linha única)
 print(123)  # Comentário depois do código, na mesma linha
 
-# Comentário acima da instrução
+# Comentário acima da instrução.
 print(456)
