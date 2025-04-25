@@ -9,17 +9,17 @@ Aqui também foi usada para explicar:
 
 print(1234)  # Número inteiro sendo impresso normalmente
 
-# --------------------------
+# -------------------------
 # Aspas simples
 print('Luiz Otávio')  # String com aspas simples
 print(1, 'Luiz "Otávio"')  # Dentro da string pode ter aspas duplas sem problema
 
-# --------------------------
+# -------------------------
 # Aspas duplas
 print("Luiz Otávio")  # String com aspas duplas
 print(2, "Luiz 'Otávio'")  # Dentro da string pode ter aspas simples sem problema
 
-# --------------------------
+# -------------------------
 # Escape com barra invertida (\) — permite inserir aspas dentro de aspas do mesmo tipo
 print("Luiz \"Otávio\"")  # O caractere \" insere aspas duplas dentro da string
 
